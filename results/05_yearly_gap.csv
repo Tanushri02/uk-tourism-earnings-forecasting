@@ -1,0 +1,4 @@
+,months,actual,sarima_forecast,holt_winters_forecast,actual_as_%_of_sarima,actual_as_%_of_holt_winters
+2020,10,2645.0,28347.8,27940.0,9.3,9.5
+2021,12,5214.0,33972.4,32433.5,15.3,16.1
+2022,9,18444.0,27493.1,25436.5,67.1,72.5

@@ -1,0 +1,9 @@
+,MAE,RMSE,MAPE_%
+"Holt-Winters add trend, mul seasonal",192.66,247.91,8.55
+"SARIMA(0,1,1)(0,1,1)12 log",191.0,249.08,8.52
+"Holt-Winters damped trend, mul seasonal",194.15,249.35,8.61
+Holt-Winters add/add on log,193.27,252.35,8.78
+"SARIMA(0,1,1)(0,1,1)12 raw",204.48,258.07,9.33
+"SARIMA(2,1,2)(2,1,2)12 raw",244.68,300.25,11.22
+Seasonal naive,263.96,350.54,11.1
+Seasonal naive + drift,277.96,364.23,11.68
